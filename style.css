@@ -1,0 +1,82 @@
+.container-fluid {
+    background-color: #fff5e1;
+}
+
+nav ul li {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000000;
+    margin: 20px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+nav {
+    padding: 10px 20px ;
+}
+
+.row .profile-container {
+    margin-top: 240px;
+}
+
+.my-name {
+    
+    font-size: 50px;
+}
+
+.description,
+.my-name {
+    margin-left: 200px;
+    font-family: 'Montserrat';
+}
+
+.work-row .col h4,
+.work-row .col p,
+.wok-row .col ul li,
+.about-row .col p {
+    font-family: 'Montserrat';
+}
+
+.work-text,
+.about-text {
+    padding: 30px 20px;
+}
+
+.dash,
+.dash-about {
+    border-top: 1px solid #000000;
+    margin-top: -30px;
+}
+
+.dash {
+    width: 120px;
+    margin-left: 14px;
+}
+
+.dash-about {
+    width: 100px;
+    margin-left: 10px;
+}
+
+.row .image img {
+    height: 400px ;
+    width: 500px;
+}
+
+.pic-col img {
+    height: 400px;
+    width: 400px;
+    border: 2px solid #e0e0e0;
+    border-radius: 200px;
+    margin: 40px 40px;
+}
+
+/* .work-col {
+    padding: 30px 30px;
+    background-color: #ffffff;
+    backdrop-filter: blur(70px);
+} */
